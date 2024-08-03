@@ -1,0 +1,10 @@
+1. Use pandas to read the file as a dataframe (named as books). bookID column should be the index of the dataframe.
+2. Use books.head() to see the first 5 rows of the dataframe.
+3. Use book.shape to find the number of rows and columns in the dataframe.
+4. Use books.describe() to summarize the data.
+5. Use books['authors'].describe() to find about the number of unique authors in the dataset and also the most frequent author.
+6. Use OLS regression to test if the average rating of a book is dependent on the following three variables: number of pages,0
+ number of ratings, and total number of written text reviews the book received. Use a single regression line with these three variables.
+
+Clearly summarize and explain your findings in part 1 (all 6 sections: 1-1 to 1-6) in a Word file (you should include your code, 
+and provide a summary of findings- for example, name of the most frequent author)

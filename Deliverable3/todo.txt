@@ -1,0 +1,18 @@
+For Analysis
+[Hurricane Sandy]
+- Compare service requests before and afer the event to see how they have
+increased/decreased 
+- identfy the common complaint types and compare how they have
+changes before/afer the event
+- map afected areas
+- identfy agencies with the highest requests.
+
+[Covid19]
+-  Compare service requests before and afer the event to see how they have
+increased/decreased
+-  identfy common complaint types before/afer the event
+- map afected areas
+- identfy agencies with the highest requests
+- Analyze which areas (Incident Zip) were
+receiving the most complaints before COVID and then afer to see which areas were most
+afected by COVID
